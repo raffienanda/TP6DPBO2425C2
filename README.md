@@ -73,4 +73,7 @@ Game berjalan di dalam sebuah `JFrame`, dengan mekanisme utama berupa kontrol gr
 ---
 
 ## 🖼️ Cuplikan Tampilan
-*(Opsional — tambahkan screenshot di sini)*  
+<img width="523" height="904" alt="image" src="https://github.com/user-attachments/assets/021ef760-1be3-469f-8472-8aa173440e3f" />
+<img width="514" height="902" alt="image" src="https://github.com/user-attachments/assets/ca64d7d2-c1fb-4a2b-b220-df84fbfb68d4" />
+<img width="513" height="900" alt="image" src="https://github.com/user-attachments/assets/47b376ba-e8db-4f6f-b0f2-a9e18470448d" />
+
