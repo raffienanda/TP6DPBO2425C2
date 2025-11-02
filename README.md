@@ -10,9 +10,8 @@ Game berjalan di dalam sebuah `JFrame`, dengan mekanisme utama berupa kontrol gr
 ## 🎨 Desain Program
 
 ### 1. Struktur Kelas
-
-
-### 2. Komponen Utama
+- **`StartMenu`**
+  kelas yang membuat halaman menu utama sebelum pemain masuk ke game. Berisikan background gambar, judul game, tombol start, dan exit
 
 - **`Logic`**  
   Mengatur seluruh logika game: gravitasi, penambahan pipa, deteksi tabrakan, perhitungan skor, dan kondisi Game Over.
